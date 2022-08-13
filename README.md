@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **aimoran@protonmail.com**
+- 📫 Reach me at **aimoran@protonmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -19,4 +19,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lumen-git&label=Profile%20views&color=0e75b6&style=flat" alt="lumen-git" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumen-git&show_icons=true&locale=en&layout=compact" alt="lumen-git" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumen-git&show_icons=true&locale=en" alt="lumen-git" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lumen-git&show_icons=true&locale=en&layout=compact" alt="lumen-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lumen-git&show_icons=true&locale=en" alt="lumen-git" /></p>
