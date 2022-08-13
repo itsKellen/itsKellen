@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan "Lumen" Moran <img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
-<h4 align="center">I'm a computer scientist working their way though college to major in CS and minor in chemistry. I also study quantum physics, horticulture, pharmacology, and historical alchemy on my own</h4>
+<h4 align="center">I'm a computer scientist working their way though college to major in CS and minor in chemistry. I also study quantum physics, horticulture, pharmacology, and historical alchemy on my own.</h4>
 
 - 🔭 I’m currently working on **a game, evolution, and college**
 
