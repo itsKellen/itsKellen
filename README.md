@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a game, evolution, and college**
 
-- 🌱 I’m currently learning **unity, JavaScript, A.I., and any other distraction that interests me**
+- 🌱 I’m currently learning **Unity, JavaScript, A.I., and any other distraction that interests me**
 
 - 💬 Ask me about **anything :)**
 
