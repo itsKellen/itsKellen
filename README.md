@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Unity, JavaScript, A.I., and any other distraction that interests me**
 
-- 💬 Ask me about **anything :)**
-
 - 📫 Reach me at **aimoran@protonmail.com**
 
 <h3 align="center">Connect with me:</h3>
