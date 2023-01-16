@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, JavaScript, A.I., and any other distraction that interests me**
 
-- 📄 See more about me on my website **lumen-git.github.io**
+- 📄 See more about me on my website <a href="https://lumen-git.github.io">**lumen-git.github.io**</a>
 
 - 📫 Reach me at **aimoran@protonmail.com**
 
