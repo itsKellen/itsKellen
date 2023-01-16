@@ -5,13 +5,18 @@
 
 - 🌱 I’m currently learning **Unity, JavaScript, A.I., and any other distraction that interests me**
 
+- 📄 See more about me on my website [lumen-git.github.io](lumen-git.github.io)
+
 - 📫 Reach me at **aimoran@protonmail.com**
 
 - 🕴️ Currently Working at **Indiana University Luddy Makerspaces**
 
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/_localaidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_localaidan" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/aidan-moran-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan-moran-l" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
