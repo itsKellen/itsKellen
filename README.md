@@ -19,6 +19,7 @@
 <p align="center">
 <a href="https://instagram.com/_localaidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_localaidan" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/aidan-moran-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan-moran-l" height="30" width="40" /></a>
+ <a href="https://www.moddb.com/members/itslumen" title="View Lumen on Mod DB" target="_blank"><img img align="center" src="https://media.moddb.com/images/global/moddb.png" alt="ModDB"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
