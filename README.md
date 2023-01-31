@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aidan "Lumen" Moran <img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
 <h4 align="center">I'm a computer scientist working their way though college to major in CS and minor in chemistry. I also study quantum physics, horticulture, pharmacology, and historical alchemy on my own.</h4>
 
-- 🔭 I’m currently working on **games, a Doom WAD, computer vision, and quantum computing**
+- 🔭 I’m currently working on **games, a Doom WAD, and computer vision**
 
-- 🌱 I’m currently learning **Unity, JavaScript, A.I., and any other distraction that interests me**
+- 🌱 I’m currently learning **Unity, JavaScript, A.I., and quantum computing**
 
 - 📄 See more about me on my website <a href="https://lumen-git.github.io">**lumen-git.github.io**</a>
 
