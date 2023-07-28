@@ -7,7 +7,7 @@
 
 - 📄 See more about me on my website <a href="https://lumen-git.github.io">**lumen-git.github.io**</a>
 
-- 📫 Reach me at **aimoran@protonmail.com**
+- 📫 Reach me at **aimorandev@gmail.com**
 
 - 🕴️ Currently Working at **Indiana University Luddy Makerspaces**
 
