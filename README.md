@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, JavaScript, A.I., and quantum computing**
 
-- 📄 See more about me on my website <a href="https://lumen-git.github.io">**lumen-git.github.io**</a>
+- 📄 See more about me on my website <a href="https://www.interstellarshareware.net">**interstellarshareware.net**</a>
 
 - 📫 Reach me at **aimorandev@gmail.com**
 
