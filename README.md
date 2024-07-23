@@ -12,7 +12,7 @@
 - 🕴️ Currently Working at **Indiana University Luddy Makerspaces**
 
 ## Favorite Project Shortcuts
-| <a href="https://github.com/Lumen-git/ThingsAI"><img src="thingsai.png"><br><p>ThingsAI: Dynamic Mosaic Generator</p></a> | <a href="https://lumen-git.github.io/games/gamepages/futility.html"><img src="futility.png"><br><p style="font-size:px;">Futility: A Text Game</p></a> | <a href="https://www.moddb.com/mods/backdooms"><img src="backdooms.png"><br>Backdooms: An Exploration Mod for a 30 Year Old Game</a> | <a href="https://github.com/Lumen-git/TheToyBox"><img src="toybox.PNG"><br>The Toy Box: Experiments in Computer Science</a> |
+| <a href="https://github.com/Lumen-git/ThingsAI"><img src="thingsai.png"><br><p>ThingsAI: Dynamic Mosaic Generator</p></a> | <a href="https://interstellarshareware.net/games/futility/"><img src="futility.png"><br><p style="font-size:px;">Futility: A Text Game</p></a> | <a href="https://www.moddb.com/mods/backdooms"><img src="backdooms.png"><br>Backdooms: An Exploration Mod for a 30 Year Old Game</a> | <a href="https://github.com/Lumen-git/TheToyBox"><img src="toybox.PNG"><br>The Toy Box: Experiments in Computer Science</a> |
 |:---:|:---:|:---:|:---:|
 
 <h3 align="center">Connect with me:</h3>
