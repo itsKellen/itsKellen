@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan "Lumen" Moran <img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
 <h4 align="center">Game & Software dev, horticulturist, and writer</h4>
 
-- 🔭 I’m currently working on **School, some games, and the theory of enverything.**
+- 🔭 I’m currently working on **School, some games, and the theory of everything.**
 
 - 🌱 I’m currently learning **Unity, JavaScript, A.I., and quantum computing**
 
