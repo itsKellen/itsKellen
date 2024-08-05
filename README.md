@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidan "Lumen" Moran <img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
-<h4 align="center">I'm a computer scientist, artist, and game dev working their way though college to major in CS and minor in chemistry. I also study quantum physics, horticulture, pharmacology, and historical alchemy outside of uni.</h4>
+<h4 align="center">Game & Software dev, botanist, and writer</h4>
 
 - 🔭 I’m currently working on **School, some games, and the theory of enverything.**
 
@@ -7,9 +7,9 @@
 
 - 📄 See more about me on my website <a href="https://www.interstellarshareware.net">**interstellarshareware.net**</a>
 
-- 📫 Reach me at **aimorandev@gmail.com**
+- 📫 Reach me at **interstelaidan@gmail.com**
 
-- 🕴️ Currently Working at **Indiana University Luddy Makerspaces**
+- 🕴️ Currently Working as **Makerspce tech**
 
 ## Favorite Project Shortcuts
 | <a href="https://github.com/Lumen-git/ThingsAI"><img src="thingsai.png"><br><p>ThingsAI: Dynamic Mosaic Generator</p></a> | <a href="https://interstellarshareware.net/games/futility/"><img src="futility.png"><br><p style="font-size:px;">Futility: A Text Game</p></a> | <a href="https://www.moddb.com/mods/backdooms"><img src="backdooms.png"><br>Backdooms: An Exploration Mod for a 30 Year Old Game</a> | <a href="https://github.com/Lumen-git/TheToyBox"><img src="toybox.PNG"><br>The Toy Box: Experiments in Computer Science</a> |
