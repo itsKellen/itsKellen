@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **School, research, and my next game**
 
-- 🌱 I’m currently learning **Unity, JavaScript, A.I., and quantum computing**
+- 🌱 I’m currently learning **Unity, JavaScript, A.I., and Story Writing**
 
 - 📄 See more about me on my website <a href="https://www.interstellarshareware.net">**interstellarshareware.net**</a>
 
