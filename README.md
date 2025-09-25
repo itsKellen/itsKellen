@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kel <img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
+<h1 align="center">Hi 👋, I'm Kellen<img src="https://img.shields.io/badge/they-them-ff69b4" alt="lumen-git" /></h1>
 <h4 align="center">Game & Software dev, horticulturist, and writer</h4>
 
 - 🔭 I’m currently working on **Games and existing**
